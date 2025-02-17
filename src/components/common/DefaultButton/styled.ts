@@ -5,7 +5,7 @@ type propsButton = {
 };
 
 export const ButtonCointainer = styled.TouchableOpacity`
-  width: 85%;
+  width: 90%;
   min-height: 40px;
   background-color: ${(props) =>
     props.type === "primary"

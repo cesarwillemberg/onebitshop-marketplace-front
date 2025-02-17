@@ -22,6 +22,7 @@
     "react-dom": "^18.2.0",
     "react-native": "0.76.7",
     "react-native-dropdown-select-list": "^2.0.5",
+    "react-native-masked-text": "^1.13.0",
     "react-native-ratings": "^8.1.0",
     "styled-components": "^6.1.15",
     "swr": "^2.3.2"
